@@ -16,6 +16,6 @@ public class ChatController {
     }
 
     public void hello() {
-        
+
     }
 }
