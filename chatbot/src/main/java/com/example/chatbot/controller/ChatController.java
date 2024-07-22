@@ -14,4 +14,8 @@ public class ChatController {
     public String insertChat() {
         return "hello world !!";
     }
+
+    public void hello() {
+        
+    }
 }
